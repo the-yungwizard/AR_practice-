@@ -63,8 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\SCRIPTS\AR_practiceScript.cs" />
-    <Compile Include="Assets\SCRIPTS\New_testSCript.cs" />
+    <Compile Include="Assets\SCRIPTS\Operands.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

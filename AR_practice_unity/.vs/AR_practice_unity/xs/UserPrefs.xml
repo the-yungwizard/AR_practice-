@@ -1,28 +1,23 @@
 ﻿<Properties StartupConfiguration="{4712A093-601F-85D9-4D4B-5A73DC5A74BD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SCRIPTS/New_testSCript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SCRIPTS/Operands.cs">
     <Files>
-      <File FileName="Assets/SCRIPTS/New_testSCript.cs" Line="31" Column="1" />
+      <File FileName="Assets/SCRIPTS/Operands.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AR_practice_unity" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="SCRIPTS" expanded="True">
-                <Node name="New_testSCript.cs" selected="True" />
-              </Node>
+              <Node name="SCRIPTS" expanded="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8479de95-f33a-460a-9492-251c07986185" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c81b40f2-ab3e-4504-93b8-5e578bd854c5" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
